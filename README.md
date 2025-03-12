@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Anh Nguyen
 
 > Software Developer | Machine Learning Enthusiast | Open Source Contributor
 
