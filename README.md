@@ -10,7 +10,7 @@ I'm passionate about building intelligent systems and solving complex problems t
 
 <div align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header.svg" width="100%" height="250">
+    <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/header.svg" width="100%" height="250">
   </a>
 </div>
 
@@ -121,7 +121,7 @@ YAML         32 mins         ▓░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/footer.svg" width="100%" height="150">
+  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/footer.svg" width="100%" height="150">
 </div>
 
 > "The best way to predict the future is to invent it." - Alan Kay
