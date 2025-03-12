@@ -17,7 +17,7 @@
     .star { fill: #FFF; opacity: 0.7; }
     .astronaut {
       animation: astronaut 5s linear infinite;
-      transform-origin: 0 0;
+      transform-origin: 190 190;
     }
     .schoolbag { fill: #94b7ca; }
     .head-light { fill: #e3e8eb; }
@@ -88,7 +88,7 @@
   </g>
 
   <!-- Astronaut - Centered -->
-  <g class="astronaut" transform="translate(5, 2.5)">
+  <g class="astronaut" transform="translate(520, 246.5)">
     <path class="schoolbag" d="M-50,0 Q-50,-30 0,-30 Q50,-30 50,0 L50,75 L-50,75 Z" />
     <circle class="head-light" cx="-24" cy="-60" r="40" />
     <circle class="head-dark" cx="24" cy="-60" r="40" />
