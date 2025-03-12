@@ -89,8 +89,6 @@
 
   <!-- Astronaut - Centered at (600, 325) and rotating in place -->
   <g class="astronaut" transform="translate(600, 325)">
-    <!-- Schoolbag -->
-    <path class="schoolbag" d="M-50,0 Q-50,-30 0,-30 Q50,-30 50,0 L50,75 L-50,75 Z" />
     <!-- Head -->
     <circle class="head-light" cx="-24" cy="-60" r="40" />
     <circle class="head-dark" cx="24" cy="-60" r="40" />
