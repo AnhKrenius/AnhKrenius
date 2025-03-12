@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150">
+  <style>
+    @keyframes snow {
+      0% { opacity: 0; transform: translateY(0px); }
+      20% { opacity: 1; }
+      100% { opacity: 1; transform: translateY(150px); }
+    }
+    .background {
+      fill: #102037;
+    }
+    .box-of-star1 {
+      animation: snow 5s linear infinite;
+    }
+    .box-of-star2 {
+      animation: snow 5s -1.64s linear infinite;
+    }
+    .box-of-star3 {
+      animation: snow 5s -2.30s linear infinite;
+    }
+    .box-of-star4 {
+      animation: snow 5s -3.30s linear infinite;
+    }
+    .star {
+      fill: #FFF;
+      opacity: 0.7;
+    }
+    .footer-text {
+      font-family: 'Arial', sans-serif;
+      font-size: 18px;
+      fill: #ffffff;
+      text-anchor: middle;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect class="background" width="1200" height="150" />
+  
+  <!-- Stars -->
+  <g class="box-of-star1">
+    <circle class="star" cx="30" cy="30" r="3" />
+    <circle class="star" cx="250" cy="110" r="3" />
+    <circle class="star" cx="570" cy="60" r="3" />
+    <circle class="star" cx="900" cy="120" r="3" />
+    <circle class="star" cx="1120" cy="20" r="3" />
+    <circle class="star" cx="1280" cy="90" r="3" />
+    <circle class="star" cx="1480" cy="30" r="3" />
+  </g>
+  
+  <g class="box-of-star2">
+    <circle class="star" cx="50" cy="40" r="3" />
+    <circle class="star" cx="270" cy="130" r="3" />
+    <circle class="star" cx="590" cy="80" r="3" />
+    <circle class="star" cx="920" cy="140" r="3" />
+    <circle class="star" cx="1140" cy="40" r="3" />
+    <circle class="star" cx="1300" cy="110" r="3" />
+    <circle class="star" cx="1500" cy="50" r="3" />
+  </g>
+  
+  <g class="box-of-star3">
+    <circle class="star" cx="70" cy="50" r="3" />
+    <circle class="star" cx="290" cy="140" r="3" />
+    <circle class="star" cx="610" cy="90" r="3" />
+    <circle class="star" cx="940" cy="150" r="3" />
+    <circle class="star" cx="1160" cy="50" r="3" />
+    <circle class="star" cx="1320" cy="120" r="3" />
+    <circle class="star" cx="1520" cy="60" r="3" />
+  </g>
+  
+  <g class="box-of-star4">
+    <circle class="star" cx="90" cy="60" r="3" />
+    <circle class="star" cx="310" cy="150" r="3" />
+    <circle class="star" cx="630" cy="100" r="3" />
+    <circle class="star" cx="960" cy="160" r="3" />
+    <circle class="star" cx="1180" cy="60" r="3" />
+    <circle class="star" cx="1340" cy="130" r="3" />
+    <circle class="star" cx="1540" cy="70" r="3" />
+  </g>
+  
+  <!-- Footer Text -->
+  <text class="footer-text" x="600" y="75">Thanks for visiting my GitHub profile!</text>
+</svg>
