@@ -89,7 +89,7 @@ I'm passionate about using data for goods and belive that data science can be a 
   <a href="https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>
-  <a href="redditsentiments.com" target="_blank">
+  <a href="https://www.redditsentiments.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>
 </div>
