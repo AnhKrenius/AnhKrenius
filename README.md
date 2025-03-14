@@ -14,7 +14,7 @@ I'm passionate about using data for goods and belive that data science can be a 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tensorflow,pytorch,flask,docker,aws,gcp,git,linux" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,selenium,flask,r,js,react,aws,docker,github,mongodb,mysql,postgre,opencv" />
   </a>
 </p>
 
@@ -86,8 +86,8 @@ I'm passionate about using data for goods and belive that data science can be a 
   <a href="mailto:nguyenanh1607131@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://yourwebsite.com](https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/vizzes)" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=tableau&logoColor=white" target="_blank">
+  <a href="https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/vizzes" target="_blank">
+    <img src="https://wallpapers.com/images/high/tableau-software-logo-design-th525w75z77ccxc9.png" target="_blank">
   </a>
   <a href="redditsentiments.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
