@@ -49,20 +49,20 @@ I'm passionate about using data for goods and belive that data science can be a 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnhKrenius&theme=radical&row=1&column=6&margin-w=15" alt="Trophy" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnhKrenius&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKrenius&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnhKrenius&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Achievements
@@ -74,7 +74,7 @@ I'm passionate about using data for goods and belive that data science can be a 
 ## 🔍 My Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhKrenius&theme=redical&hide_border=true" width="100%"/>
 </div>
 
 ## 📫 How to reach me
