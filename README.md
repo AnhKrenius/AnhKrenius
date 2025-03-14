@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/header.svg" width="100%" height="250">
+  <a href="https://github.com/AnhKrenius">
+    <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/header.svg" width="100%" height="100%">
   </a>
 </div>
 
