@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;ML+Enthusiast;AI+Engineer" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
   <a href="https://github.com/AnhKrenius">
     <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/header.svg" width="100%" height="100%">
   </a>
 </div>
 
-I'm passionate about building intelligent systems and solving complex problems through code. Currently focused on NLP and fine-tuning language models for practical applications.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;ML+Enthusiast;AI+Engineer" alt="Typing SVG" />
+</div>
+
+I'm passionate about using data for goods and belive that data science can be a powerful tool for positive changes.
 
 ## 🚀 Skills & Technologies
 
