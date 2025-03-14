@@ -87,7 +87,7 @@ I'm passionate about using data for goods and belive that data science can be a 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/vizzes" target="_blank">
-    <img src="https://wallpapers.com/images/high/tableau-software-logo-design-th525w75z77ccxc9.png" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>
   <a href="redditsentiments.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
