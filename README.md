@@ -80,38 +80,24 @@ I'm passionate about using data for goods and belive that data science can be a 
 ## 📫 How to reach me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/iamanhnguyene" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nguyenanh1607131@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="[https://yourwebsite.com](https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/vizzes)" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=tableau&logoColor=white" target="_blank">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="redditsentiments.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
   </a>
 </div>
 
----
 
-### 🎯 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 14 mins  ████████████▓░░░░░░░░░░░░   50.75 %
-JavaScript   8 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   35.40 %
-Markdown     1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-JSON         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-YAML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-```
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AnhNguyen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
