@@ -32,22 +32,79 @@ I'm passionate about using data for goods and belive that data science can be a 
 
 ## 💼 Projects
 
+🌌 Projects Across The Universe
 <div align="center">
-  <h1>Reddit Sentiment Analyzer</h1>
+  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/cosmic-divider.svg" width="100%">
+</div>
+🔭 Reddit Sentiment Analyzer
+<div align="center">
   <a href="https://redditsentiments.com">
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQE_uR-aKxF75g/profile-treasury-image-shrink_800_800/B56ZYGcg74GUAY-/0/1743864860848?e=1744484400&v=beta&t=87KDCsWSmpPPTtPo7gGsEej9NnuS8HOJU12Ub6Yxmo8" />
+    <img src="https://media.licdn.com/dms/image/v2/D562DAQE_uR-aKxF75g/profile-treasury-image-shrink_800_800/B56ZYGcg74GUAY-/0/1743864860848?e=1744484400&v=beta&t=87KDCsWSmpPPTtPo7gGsEej9NnuS8HOJU12Ub6Yxmo8" width="80%" style="border-radius: 8px; box-shadow: 0 0 20px #8a2be2;" />
   </a>
-  <a href="https://redditsentiments.com">https://redditsentiments.com</a>
-  <p>A web app for real-time sentiment analysis, which serves as a social media listening tool. It allows users to analyze public opinion on a specific keywords, providing interactive charts and valuable insights.</p>
 </div>
 <div align="center">
-  <h1>CapstoneBara - Virtual Assistant for Mental Health</h1>
-  <a href="https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view?fbclid=IwY2xjawJSQEdleHRuA2FlbQIxMAABHe-RJzlSiGFaxfBaE6Murl6-1OOc2Jkr_X8pbAX3KUsNRVpfUDAw6cdHjA_aem__QBOS9yt_sckBuwPRMOA0g">
-    <img src="https://github.com/AnhKrenius/AnhKrenius/blob/main/capy.png" />
+  <a href="https://redditsentiments.com" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_SITE-5046E5?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <p>CapstoneBara is a mental health support platform featuring a virtual assistant designed to assist users in managing their well-being. Our core offerings include the Bara chatbot, an AI-powered companion for emotional support, and a dashboard for tracking mental health metrics. Beyond that, we’ve added extra features like a private diary for self-expression, a tool to send health reports to doctors, and appointment scheduling. Built with technologies like React, Flask, LangChain, Groq, and MongoDB, our demo-phase project prioritizes user privacy and aims to make mental health care more accessible.</p>
+  <a href="https://github.com/AnhKrenius/reddit-sentiment" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_CODE-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
+Exploring the Emotional Cosmos of Social Media
+A constellation of sentiment analysis tools providing real-time insights into public opinion across Reddit. This observatory for social media allows users to track specific keywords, visualize sentiment patterns through interactive charts, and discover emerging trends.
+
+Technologies: Python Flask React NLTK Plotly Redis MongoDB
+
+🪐 CapstoneBara - Mental Health Virtual Assistant
+<div align="center">
+  <a href="https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view">
+    <img src="https://github.com/AnhKrenius/AnhKrenius/blob/main/capy.png" width="80%" style="border-radius: 8px; box-shadow: 0 0 20px #ff6b81;" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://capstone-bara.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_DEMO-5046E5?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnhKrenius/CapstoneBara" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_CODE-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+Navigating the Inner Universe
+CapstoneBara creates a sanctuary in the digital cosmos, offering mental health support through an AI-powered companion. Like a guiding star, the Bara chatbot provides emotional support while the dashboard maps your mental well-being journey. Additional features include a private diary for self-reflection, health report generation, and appointment scheduling to connect with professional guidance.
+
+Technologies: React Flask LangChain Groq MongoDB Chart.js TailwindCSS
+
+🌠 Stellar Vision - Image Classification with Transfer Learning
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/stellar-vision.png" width="80%" style="border-radius: 8px; box-shadow: 0 0 20px #64ffda;" />
+</div>
+<div align="center">
+  <a href="https://huggingface.co/spaces/AnhKrenius/stellar-vision" target="_blank">
+    <img src="https://img.shields.io/badge/TRY_DEMO-5046E5?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnhKrenius/stellar-vision" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_CODE-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+Capturing Cosmic Patterns
+Stellar Vision harnesses the power of transfer learning to classify images across the universe of possibilities. This project demonstrates how pre-trained neural networks can be adapted to new domains with minimal training data, creating a telescope that can identify patterns across diverse image categories.
+
+Technologies: PyTorch TensorFlow Streamlit Hugging Face OpenCV
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/cosmic-divider.svg" width="100%">
+</div>
+🚀 Launching Soon
+
+Quantum NLP - Exploring the quantum realm of natural language processing
+GalaxyGAN - Generating celestial bodies with generative adversarial networks
+Nebula Notes - A privacy-focused note-taking app with encrypted cloud storage
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/stars-divider.svg" width="100%">
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
