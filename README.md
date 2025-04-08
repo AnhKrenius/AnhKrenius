@@ -34,7 +34,7 @@ I'm passionate about using data for goods and belive that data science can be a 
 
 <div align="center">
   <a href="https://redditsentiments.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=sentiment-analysis&theme=radical" />
+    <img src="https://media.licdn.com/dms/image/v2/D562DAQE_uR-aKxF75g/profile-treasury-image-shrink_800_800/B56ZYGcg74GUAY-/0/1743864860848?e=1744484400&v=beta&t=87KDCsWSmpPPTtPo7gGsEej9NnuS8HOJU12Ub6Yxmo8" />
   </a>
   <p>A web app for real-time sentiment analysis, which serves as a social media listening tool. It allows users to analyze public opinion on a specific keywords, providing interactive charts and valuable insights.</p>
 </div>
