@@ -45,7 +45,7 @@ I'm passionate about using data for goods and belive that data science can be a 
   <a href="https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view?fbclid=IwY2xjawJSQEdleHRuA2FlbQIxMAABHe-RJzlSiGFaxfBaE6Murl6-1OOc2Jkr_X8pbAX3KUsNRVpfUDAw6cdHjA_aem__QBOS9yt_sckBuwPRMOA0g">
     <img src="https://media.licdn.com/dms/image/v2/D562DAQE_uR-aKxF75g/profile-treasury-image-shrink_800_800/B56ZYGcg74GUAY-/0/1743864860848?e=1744484400&v=beta&t=87KDCsWSmpPPTtPo7gGsEej9NnuS8HOJU12Ub6Yxmo8" />
   </a>
-  <a href="CapstoneBara is a mental health support platform featuring a virtual assistant designed to assist users in managing their well-being. Our core offerings include the Bara chatbot, an AI-powered companion for emotional support, and a dashboard for tracking mental health metrics. Beyond that, we’ve added extra features like a private diary for self-expression, a tool to send health reports to doctors, and appointment scheduling. Built with technologies like React, Flask, LangChain, Groq, and MongoDB, our demo-phase project prioritizes user privacy and aims to make mental health care more accessible.</p>
+  <p>CapstoneBara is a mental health support platform featuring a virtual assistant designed to assist users in managing their well-being. Our core offerings include the Bara chatbot, an AI-powered companion for emotional support, and a dashboard for tracking mental health metrics. Beyond that, we’ve added extra features like a private diary for self-expression, a tool to send health reports to doctors, and appointment scheduling. Built with technologies like React, Flask, LangChain, Groq, and MongoDB, our demo-phase project prioritizes user privacy and aims to make mental health care more accessible.</p>
 </div>
 
 ## 📊 GitHub Stats
