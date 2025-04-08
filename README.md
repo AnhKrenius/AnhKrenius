@@ -14,7 +14,7 @@ I'm passionate about using data for goods and belive that data science can be a 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,selenium,flask,r,js,react,aws,docker,github,mongodb,mysql,postgre,opencv" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,selenium,flask,r,js,react,aws,docker,github,mongodb,mysql,postgre" />
   </a>
 </p>
 
