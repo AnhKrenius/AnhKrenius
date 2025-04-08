@@ -33,12 +33,10 @@ I'm passionate about using data for goods and belive that data science can be a 
 ## 💼 Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/sentiment-analysis">
+  <a href="https://redditsentiments.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=sentiment-analysis&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/ai-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-assistant&theme=radical" />
-  </a>
+  <p>A web app for real-time sentiment analysis, which serves as a social media listening tool. It allows users to analyze public opinion on a specific keywords, providing interactive charts and valuable insights.</p>
 </div>
 <div align="center">
   <a href="https://github.com/yourusername/nlp-toolkit">
