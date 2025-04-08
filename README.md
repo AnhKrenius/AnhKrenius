@@ -32,10 +32,6 @@ I'm passionate about using data for goods and belive that data science can be a 
 
 ## 💼 Projects
 
-🌌 Projects Across The Universe
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/cosmic-divider.svg" width="100%">
-</div>
 🔭 Reddit Sentiment Analyzer
 <div align="center">
   <a href="https://redditsentiments.com">
@@ -76,35 +72,6 @@ CapstoneBara creates a sanctuary in the digital cosmos, offering mental health s
 
 Technologies: React Flask LangChain Groq MongoDB Chart.js TailwindCSS
 
-🌠 Stellar Vision - Image Classification with Transfer Learning
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/stellar-vision.png" width="80%" style="border-radius: 8px; box-shadow: 0 0 20px #64ffda;" />
-</div>
-<div align="center">
-  <a href="https://huggingface.co/spaces/AnhKrenius/stellar-vision" target="_blank">
-    <img src="https://img.shields.io/badge/TRY_DEMO-5046E5?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnhKrenius/stellar-vision" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_CODE-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-Capturing Cosmic Patterns
-Stellar Vision harnesses the power of transfer learning to classify images across the universe of possibilities. This project demonstrates how pre-trained neural networks can be adapted to new domains with minimal training data, creating a telescope that can identify patterns across diverse image categories.
-
-Technologies: PyTorch TensorFlow Streamlit Hugging Face OpenCV
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/cosmic-divider.svg" width="100%">
-</div>
-🚀 Launching Soon
-
-Quantum NLP - Exploring the quantum realm of natural language processing
-GalaxyGAN - Generating celestial bodies with generative adversarial networks
-Nebula Notes - A privacy-focused note-taking app with encrypted cloud storage
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnhKrenius/AnhKrenius/main/stars-divider.svg" width="100%">
-</div>
 ## 📊 GitHub Stats
 
 <div align="center">
