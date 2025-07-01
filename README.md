@@ -59,7 +59,7 @@ Technologies: Python Flask React NLTK Plotly Redis MongoDB
   </a>
 </div>
 <div align="center">
-  <a href="[https://capstone-bara.vercel.app](https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_DEMO-5046E5?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://github.com/AnhKrenius/CapstoneBara" target="_blank">
