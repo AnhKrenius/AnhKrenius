@@ -35,7 +35,7 @@ I'm passionate about using data for goods and belive that data science can be a 
 🔭 Reddit Sentiment Analyzer
 <div align="center">
   <a href="https://redditsentiments.com">
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQE_uR-aKxF75g/profile-treasury-image-shrink_800_800/B56ZYGcg74GUAY-/0/1743864860848?e=1744484400&v=beta&t=87KDCsWSmpPPTtPo7gGsEej9NnuS8HOJU12Ub6Yxmo8" width="80%" style="border-radius: 8px; box-shadow: 0 0 20px #8a2be2;" />
+    <img src="https://github.com/AnhKrenius/AnhKrenius/blob/main/reddit.png" />
   </a>
 </div>
 <div align="center">
