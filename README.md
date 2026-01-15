@@ -176,9 +176,6 @@ Models matter — but **systems, context, and users matter more**.
   <a href="mailto:nguyenanh1607131@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.redditsentiments.com" target="_blank">
-    <img src="https://img.shields.io/badge/RedditSentiments-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
 </div>
 
 ---
