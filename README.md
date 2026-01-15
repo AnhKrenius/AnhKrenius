@@ -12,21 +12,36 @@
 
 ## 👋 About Me
 
-Hi, I’m **Anh Nguyen (AnhKrenius)**.
+Hi, I’m **Anh Nguyen**.
 
 I build **AI-powered analytics products** that turn complex signals into **clear, actionable insights**.  
 My work sits at the intersection of **machine learning, system design, and product thinking** — focusing on solutions that **ship**, **scale**, and **create real impact**.
 
-I’m especially interested in **applied AI**, where models are only valuable if they help people make better decisions.
+I’m especially interested in **applied AI**, where models are only valuable if they help people make better decisions. My experience spans Data Engineering, Data Science, and Analytics, allowing me to work comfortably across the entire data lifecycle.
+
 
 ---
 
-## 🧠 What I Care About
+## 🧩 Data Roles I Work Across
 
-- Building AI systems that work in production, not just in notebooks  
-- Translating messy, high-dimensional data into decisions humans can trust  
-- Designing analytics with **business context**, not just technical metrics  
-- Responsible, privacy-aware use of data and AI  
+### 🔧 Data Engineering
+- Designing and maintaining scalable **data ingestion pipelines** from multiple sources
+- Building **ETL workflows** for clean, analytics-ready datasets
+- Managing cloud-native infrastructure for data reliability and performance
+- Optimizing data workflows with monitoring, validation, and logging
+
+### 📊 Data Analytics
+- Translating business questions into **KPIs, metrics, and dashboards**
+- Designing data models to support BI and reporting use cases
+- Performing exploratory data analysis to uncover trends and patterns
+- Communicating insights clearly to technical and non-technical stakeholders
+
+### 🤖 Data Science & AI
+- Applying machine learning and NLP to real-world data problems
+- Building AI-powered analytics features for production platforms
+- Working with multimodal data (text, audio, vision)
+- Evaluating and iterating models with a focus on business impact
+
 
 ---
 
@@ -50,6 +65,8 @@ I’m especially interested in **applied AI**, where models are only valuable if
 - Building **AI-driven analytics platforms** for real users and businesses  
 - Designing **multimodal ML systems** to extract human-centric insights  
 - Turning complex AI outputs into **interpretable dashboards and signals**
+- Architecting end-to-end data platforms (ingestion → analytics → ML → dashboards)
+- Supporting product and business teams with data-driven decision systems
 
 ---
 
@@ -58,8 +75,16 @@ I’m especially interested in **applied AI**, where models are only valuable if
 <img src="https://github.com/ialexanderbrito/ialexanderbrito/blob/master/images/standards.gif?raw=true" width="22px"> Scalable ML system architecture & deployment  
 <img src="https://github.com/ialexanderbrito/ialexanderbrito/blob/master/images/standards.gif?raw=true" width="22px"> MLOps practices for production AI  
 <img src="https://github.com/ialexanderbrito/ialexanderbrito/blob/master/images/standards.gif?raw=true" width="22px"> Human-centered evaluation of AI systems  
+<img src="https://github.com/ialexanderbrito/ialexanderbrito/blob/master/images/standards.gif?raw=true" width="30px"> Designing scalable data platforms and analytics architectures
 
 ---
+## 📈 How I Use Data in Practice
+
+- From **raw data ingestion** to **business-facing dashboards**
+- Combining analytics, ML, and visualization for real-world use cases
+- Prioritizing data quality, interpretability, and usability
+- Building systems that support both experimentation and production workloads
+
 
 ## 💼 Featured Case Studies & Projects
 
