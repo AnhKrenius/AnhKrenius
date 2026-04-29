@@ -88,7 +88,7 @@ I’m especially interested in **applied AI**, where models are only valuable if
 
 ## 💼 Featured Case Studies & Projects
 
-### 📊 AustralScience JustWatch — User Feedback Intelligence Platform
+### [📊 AustralScience JustWatch — User Feedback Intelligence Platform](https://github.com/AnhKrenius/User_Feedback_Intelligence_Platform)
 **Live Demo:** https://justwatch.australscience.com (access code: AustralSciencedemo)
 
 An analytics project that combines internal engagement signals with external social feedback to explain post-release UX performance.
