@@ -88,6 +88,18 @@ I’m especially interested in **applied AI**, where models are only valuable if
 
 ## 💼 Featured Case Studies & Projects
 
+### 📊 AustralScience JustWatch — User Feedback Intelligence Platform
+**Live Demo:** https://justwatch.australscience.com (access code: AustralSciencedemo)
+
+An analytics project that combines internal engagement signals with external social feedback to explain post-release UX performance.
+
+**Highlights**
+- Integrated structured engagement data with unstructured user comments at thread level
+- Applied LLM-assisted sentiment + topic analysis to detect UX pain points within 24–48 hours post-release
+- Reduced time to identify UX issues from ~5–7 days to ~1–2 days (~2–3x faster), based on internal team feedback
+
+This demo uses synthetic data for public sharing. Internal pipelines and production implementation details remain private due to NDA.
+
 ### 🚀 Neurofy — AI-Powered Emotional Analytics Platform
 **Live:** https://www.neurofy.com.au  
 
