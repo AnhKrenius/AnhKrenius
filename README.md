@@ -94,13 +94,32 @@ I’m especially interested in **applied AI**, where models are only valuable if
 An analytics project that combines internal engagement signals with external social feedback to explain post-release UX performance.
 
 **Highlights**
-- Integrated structured engagement data with unstructured user comments at thread level
-- Applied LLM-assisted sentiment + topic analysis to detect UX pain points within 24–48 hours post-release
-- Reduced time to identify UX issues from ~5–7 days to ~1–2 days (~2–3x faster), based on internal team feedback
+- Uncovered root causes behind engagement drops by linking user behavior with real user sentiment
+- Identified critical UX issues within 24–48 hours post-release, enabling rapid product response
+- Reduced time to detect and prioritize issues from ~5–7 days to ~1–2 days (~2–3x faster), accelerating decision-making cycles
+- Enabled product & growth teams to act earlier on user dissatisfaction and improve iteration speed through a reusable monitoring framework
 
 This demo uses synthetic data for public sharing. Internal pipelines and production implementation details remain private due to NDA.
 
-### 🚀 Neurofy — AI-Powered Emotional Analytics Platform
+### [📊 HR Workforce Analytics — Early Attrition & Pay Equity Intelligence Platform](https://github.com/AnhKrenius/HR_Workforce_Analytics)
+
+**Dashboard link:** *((https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/viz/MyHRDashboard_17413656791880/HRDashboard))*
+
+An end-to-end HR analytics project that combines workforce, compensation, and performance signals to explain attrition risk and pay equity issues at both department and employee levels.
+
+**Highlights**
+
+- Identified that **57.2% of terminations** occurred within the first 12 months, revealing a major early-attrition pattern.
+- Quantified potential avoidable loss at approximately **$19.6M/year** from early attrition (recruitment, onboarding, productivity reset).
+- Highlighted that **Excellent performers attrite at 14.9%**, higher than Good performers (9.6%), supporting targeted retention actions.
+- Flagged **620 underpaid active employees (7.8%)**, enabling HR to prioritize compensation reviews by risk and impact.
+- Turned fragmented HR exports into a repeatable analytics workflow, reducing manual analysis time and improving decision speed for HR leadership.
+
+---
+
+This portfolio demo is intended for learning/public showcase. Sensitive production implementation details can be adapted or withheld where required.
+
+### [🚀 Neurofy — AI-Powered Emotional Analytics Platform](https://github.com/AnhKrenius/Neurofy---AI-Powered-Emotional-Analysis-Platform)
 **Live:** https://www.neurofy.com.au  
 
 Neurofy is an AI-powered neuromarketing analytics platform that helps brands understand **how audiences emotionally respond to video content** — offering a scalable alternative to traditional focus groups.
@@ -114,7 +133,7 @@ Neurofy is an AI-powered neuromarketing analytics platform that helps brands und
 
 ---
 
-### 🧠 RedditSentiments — Social Listening & Analytics
+### [🧠 RedditSentiments — Social Listening & Analytics](https://github.com/AnhKrenius/RedditSentiments---Social-Listening-Analytics-Platform)
 **Live Case Study:** https://redditsentiments.com  
 
 A social media listening platform that analyzes **large-scale public conversations** to surface sentiment trends, risks, and opportunities.
@@ -126,7 +145,7 @@ A social media listening platform that analyzes **large-scale public conversatio
 
 ---
 
-### 🤖 CapstoneBara — Mental Health Conversational Companion
+### [🤖 CapstoneBara — Mental Health Conversational Companion](https://github.com/AnhKrenius/RedditSentiments---Social-Listening-Analytics-Platform)
 An AI-powered assistant designed to support mental well-being through conversational interaction and reflective analytics.
 
 **Highlights**
