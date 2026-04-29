@@ -103,7 +103,7 @@ This demo uses synthetic data for public sharing. Internal pipelines and product
 
 ### [📊 HR Workforce Analytics — Early Attrition & Pay Equity Intelligence Platform](https://github.com/AnhKrenius/HR_Workforce_Analytics)
 
-**Dashboard link:** *(https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/viz/MyHRDashboard_17413656791880/HRDashboard)*
+**Dashboard link:** *[Tableau](https://public.tableau.com/app/profile/ngoc.anh.t.nguyen/viz/MyHRDashboard_17413656791880/HRDashboard)*
 
 An end-to-end HR analytics project that combines workforce, compensation, and performance signals to explain attrition risk and pay equity issues at both department and employee levels.
 
